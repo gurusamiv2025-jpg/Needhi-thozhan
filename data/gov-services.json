@@ -1,0 +1,67 @@
+[
+  {
+    "service": "Aadhaar (enrollment / update / download)",
+    "authority": "UIDAI (Unique Identification Authority of India), Ministry of Electronics and IT",
+    "how_to": "New enrollment: visit any Aadhaar Enrolment Centre with proof of identity and address (free of cost). Updates to name/address/DOB/gender: can be done online via the official portal if mobile is registered, or in person at an Aadhaar Seva Kendra for biometric updates. Mobile number update requires an in-person visit — biometric verification, no documents needed.",
+    "official_portal": "https://uidai.gov.in",
+    "note": "Enrollment is voluntary and free. Never share Aadhaar OTP or biometric data with anyone claiming to help 'update' it remotely — this is a common scam vector.",
+    "_search": "aadhaar card enrollment update uidai identity proof"
+  },
+  {
+    "service": "Ration Card (Smart Card / PDS)",
+    "authority": "Tamil Nadu Civil Supplies and Consumer Protection Department",
+    "how_to": "Apply for a new Smart Ration Card, check status, or correct family member details entirely online via the TNPDS portal using Aadhaar-linked mobile OTP verification. No physical card — collection is via Aadhaar biometric authentication at Fair Price Shops.",
+    "official_portal": "https://www.tnpds.gov.in",
+    "note": "Tamil Nadu-specific — other states have separate PDS portals.",
+    "_search": "ration card tnpds tamil nadu apply smart card food"
+  },
+  {
+    "service": "Community / Income / Nativity / OBC Certificates",
+    "authority": "Revenue Department, Government of Tamil Nadu, via TNeGA (Tamil Nadu e-Governance Agency)",
+    "how_to": "Apply and download Income, Community, Nativity, No-Graduate, and OBC certificates online through the TN e-Sevai citizen portal (one-time registration required), or in person at the nearest Common Service Centre (CSC) / e-Sevai centre / Taluk office.",
+    "official_portal": "https://www.tnesevai.tn.gov.in",
+    "helpline": "1800 4256 000 (toll-free) / tnesevaihelpdesk@tn.gov.in",
+    "note": "These certificates are commonly required for education admissions, scholarships, and government job applications.",
+    "_search": "community certificate income certificate nativity certificate obc tn esevai tamil nadu"
+  },
+  {
+    "service": "Passport (new / renewal)",
+    "authority": "Ministry of External Affairs, Government of India",
+    "how_to": "Register and apply online, book an appointment at the nearest Passport Seva Kendra (PSK) or Post Office PSK, upload documents, pay fees, and appear in person for document verification and biometrics.",
+    "official_portal": "https://www.passportindia.gov.in",
+    "note": "Police verification (pre- or post-issuance depending on category) is a standard part of the process — not a red flag by itself.",
+    "_search": "passport apply renewal passport seva kendra india"
+  },
+  {
+    "service": "Driving Licence (Learner's / Permanent)",
+    "authority": "Ministry of Road Transport and Highways (MoRTH), via state RTOs",
+    "how_to": "Apply for a Learner's Licence online (including the theory test in many states, 'Faceless LL'), then apply for the Permanent Licence after the mandatory gap period, book a driving test slot, and visit the RTO for the practical test where required.",
+    "official_portal": "https://sarathi.parivahan.gov.in",
+    "note": "Minimum age: 16 for gearless two-wheelers (with guardian consent), 18 for motorcycles with gears/cars, 20 for commercial vehicles. Select the correct state on the portal — service availability varies slightly by state.",
+    "_search": "driving licence learner permanent sarathi parivahan apply rto"
+  },
+  {
+    "service": "Vehicle Registration (RC) and related services",
+    "authority": "Ministry of Road Transport and Highways (MoRTH), via state RTOs",
+    "how_to": "New vehicle registration, ownership transfer, address change, duplicate RC, and e-Challan payment are handled through the Vahan portal, linked to the same Parivahan ecosystem as driving licences.",
+    "official_portal": "https://vahan.parivahan.gov.in",
+    "note": "Always confirm you're on the official parivahan.gov.in domain — many lookalike sites exist.",
+    "_search": "vehicle registration rc vahan parivahan transfer echallan"
+  },
+  {
+    "service": "Property Registration / Encumbrance Certificate (EC) / Patta-Chitta",
+    "authority": "Registration Department, Government of Tamil Nadu",
+    "how_to": "Search Encumbrance Certificates, check guideline (market) value, view Patta/Chitta land records, and book a Sub-Registrar Office (SRO) token for deed registration (sale, gift, partition, will) online.",
+    "official_portal": "https://tnreginet.gov.in",
+    "note": "Tamil Nadu-specific portal — an EC search is one of the most important checks before any property purchase, since it shows registered encumbrances (loans/liens) on the property. Directly relevant to your real estate fraud-prevention platform context.",
+    "_search": "property registration encumbrance certificate ec patta chitta tnreginet tamil nadu land"
+  },
+  {
+    "service": "Government Scheme Eligibility Check",
+    "authority": "Government of India, National Governance Services Portal (NeGD)",
+    "how_to": "Search and filter central and state government welfare schemes by category (education, health, agriculture, women, disability, etc.) and check personal eligibility criteria for each.",
+    "official_portal": "https://www.myscheme.gov.in",
+    "note": "Aggregates thousands of schemes across ministries and states — useful as a starting point, but always confirm final eligibility/application steps on the specific scheme's own department portal.",
+    "_search": "government scheme eligibility myscheme welfare benefits india"
+  }
+]

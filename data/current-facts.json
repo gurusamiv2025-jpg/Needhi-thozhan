@@ -1,0 +1,58 @@
+[
+  {
+    "fact": "Chief Minister of Tamil Nadu",
+    "value": "C. Joseph Vijay (Thalapathy Vijay), Tamilaga Vettri Kazhagam (TVK) — sworn in 10 May 2026, ending decades of alternating DMK/AIADMK rule.",
+    "as_of": "2026-05-10",
+    "note": "This is a fast-changing fact. Verify against a current news source before relying on it beyond a few months from as_of. Model training data predates this — always defer to this entry over internal knowledge.",
+    "_search": "chief minister tamil nadu cm current vijay"
+  },
+  {
+    "fact": "NALSA Toll-Free Legal Aid Helpline",
+    "value": "15100 — National Legal Services Authority's 24x7 toll-free helpline for free legal aid and advice, connecting callers to panel lawyers.",
+    "as_of": "2026-08-20",
+    "note": "Stable, government-run number — low likelihood of change, but re-verify periodically.",
+    "_search": "nalsa helpline free legal aid number 15100"
+  },
+  {
+    "fact": "Tamil Nadu State Legal Services Authority (TNSLSA) Contact",
+    "value": "Toll-free: 1800 4252 441 (10am–6pm, working days). Helpline: 044-25342441. Main office numbers: 044-25342834 / 044-25343353 / 044-25343144. Email: tnslsa@gmail.com. Address: Gate No. 6, North Fort Road, High Court Campus, Chennai – 600 104.",
+    "as_of": "2026-08-20",
+    "note": "Use this for Tamil Nadu-specific escalation after answering a legal-rights question — pairs with the 'what to do next' feature.",
+    "_search": "tnslsa tamil nadu state legal services authority contact helpline chennai"
+  },
+  {
+    "fact": "National Women's Helpline",
+    "value": "181 — toll-free, 24x7 national helpline for women in distress, including domestic violence situations.",
+    "as_of": "2026-08-20",
+    "note": "Cite alongside Domestic Violence Act (2005) answers.",
+    "_search": "women helpline number domestic violence 181"
+  },
+  {
+    "fact": "Police Emergency Helpline",
+    "value": "112 — India's unified national emergency response number (covers police, fire, ambulance).",
+    "as_of": "2026-08-20",
+    "note": "For genuine emergencies only — distinguish from legal-advice helplines like 15100.",
+    "_search": "police emergency number india 112"
+  },
+  {
+    "fact": "Child Helpline",
+    "value": "1098 — toll-free, 24x7 national helpline for children in need of care and protection.",
+    "as_of": "2026-08-20",
+    "note": "Cite for questions involving minors, child labour, or child abuse.",
+    "_search": "child helpline number india 1098"
+  },
+  {
+    "fact": "Governor of Tamil Nadu",
+    "value": "Rajendra Arlekar (also written R. V. Arlekar / Rajendra Vishwanath Arlekar) — took charge in 2026, succeeding R. N. Ravi (transferred to Governor of West Bengal in March 2026).",
+    "as_of": "2026-08-20",
+    "note": "Verified via multiple independent sources on the as_of date. Model training data predates this — always defer to this entry over internal knowledge.",
+    "_search": "governor tamil nadu current arlekar"
+  },
+  {
+    "fact": "Law Minister of Tamil Nadu",
+    "value": "NOT CONFIRMED as of the as_of date.",
+    "as_of": "2026-08-20",
+    "note": "Could not be independently verified. Do not guess a name — tell the user this specific detail isn't confirmed and point them to the official Tamil Nadu government website or TNSLSA.",
+    "_search": "law minister tamil nadu current"
+  }
+]

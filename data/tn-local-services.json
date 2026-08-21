@@ -1,0 +1,23 @@
+[
+  {
+    "topic": "Finding your District Legal Services Authority (DLSA)",
+    "detail": "Every district in Tamil Nadu has its own DLSA, physically located in the District Court building at the district headquarters, chaired by the District Judge. Below the district level, Taluk Legal Services Committees exist at each Taluk headquarters, headed by the local Sub-Judge. These are the correct first point of contact for free legal aid closer to home than the state office in Chennai.",
+    "how_to_find": "The TNSLSA website (https://tnlegalservices.tn.gov.in) lists district-wise contact details under its District Committees section, and the national NALSA dashboard (https://nalsa.gov.in/dashboard/TN) also links out to each state/district authority.",
+    "note": "Do not fabricate a specific district's phone number in an answer — direct the user to look up their own district via the official links above, since contact numbers change and per-district data isn't independently verified here.",
+    "_search": "district legal services authority dlsa tamil nadu find nearest taluk"
+  },
+  {
+    "topic": "TN e-Sevai / Common Service Centres (CSC) — general citizen services access point",
+    "detail": "Beyond legal aid specifically, most everyday Tamil Nadu government paperwork (certificates, some scheme applications) can be done at a Common Service Centre (CSC) or e-Sevai Maiyam near you, without needing to know which specific department portal to use — the operator handles the routing.",
+    "official_portal": "https://www.tnesevai.tn.gov.in",
+    "helpline": "1800 4256 000",
+    "note": "Useful as a general 'go here if you don't know where to start' fallback for TN-specific government paperwork questions.",
+    "_search": "tn esevai common service centre csc tamil nadu government services near me"
+  },
+  {
+    "topic": "Tamil Nadu Buildings (Lease and Rent Control) Act, 1960 vs Landlords and Tenants Act, 2017 — which applies",
+    "detail": "Tamil Nadu has two overlapping tenancy-related laws: the older 1960 Rent Control Act (still relevant to many existing tenancies, especially in certain rent-controlled areas/buildings) and the newer 2017 Regulation of Rights and Responsibilities of Landlords and Tenants Act (intended to modernize and eventually supersede rent control-style regulation, emphasizing written agreements and a Rent Authority for dispute resolution).",
+    "note": "Which Act actually governs a specific tenancy can depend on the property, area, and agreement date — this is genuinely a 'consult a lawyer or the local Rent Authority' situation rather than one your bot should resolve definitively. Flag this ambiguity explicitly in any tenancy answer rather than picking one Act confidently.",
+    "_search": "tamil nadu rent control act 1960 landlords tenants act 2017 which applies eviction"
+  }
+]
